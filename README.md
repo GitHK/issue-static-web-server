@@ -3,8 +3,8 @@ While trying to run https://github.com/joseluisq/static-web-server as none root 
 
 
 ```shell
-git clone ...
-cd ...
+git clone https://github.com/GitHK/issue-static-web-server.git
+cd issue-static-web-server
 make build
 make run
 custom-static-webserver:latest
